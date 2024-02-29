@@ -1,4 +1,5 @@
-    /// <reference types="cypress" />
+/// <reference types="cypress" />
+// Assertivas
 
     it('Equality', () => {
         const a = 1;
